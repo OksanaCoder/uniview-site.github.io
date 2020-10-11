@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/OksanaCoder/uniview-site.github.io/issues"
   },
-  "homepage": "https://github.com/OksanaCoder/uniview-site.github.io#readme"
+  "homepage": "https://github.com/OksanaCoder/uniview-site.github.io#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
