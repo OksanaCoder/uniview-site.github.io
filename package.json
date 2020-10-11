@@ -1,0 +1,19 @@
+{
+  "name": "uniview.github.io-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OksanaCoder/uniview-site.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OksanaCoder/uniview-site.github.io/issues"
+  },
+  "homepage": "https://github.com/OksanaCoder/uniview-site.github.io#readme"
+}
